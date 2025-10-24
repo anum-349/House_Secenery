@@ -1,3 +1,4 @@
+import utils.session
 import turtle as t
 s=t.Screen()
 t.speed(100)
